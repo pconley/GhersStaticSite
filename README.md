@@ -1,11 +1,11 @@
 # Ghers Static Site
 
 - docker (must be installed)
-- apache (is not required... docker buils it)
+- apache (is not required... docker builds it)
 - the conf file is not used (old idea)
 - restart.sh 
--- has all the commands to build, start and stop the container.
--- careful as it stops and removes ANY docker container running.
+  has all the commands to build, start and stop the container.
+  careful as it stops and removes ANY docker container running.
 
 ## Instructions
 
