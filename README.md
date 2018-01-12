@@ -7,7 +7,7 @@
   - careful as it stops and removes ANY docker container running.
 
 ## Instructions
-Clone this repo
+Clone this repo, then run resart to build and start
 ```
 . ./restart.sh
 ```
