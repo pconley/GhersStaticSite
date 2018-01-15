@@ -11,7 +11,7 @@ Clone this repo, then run restart.sh to build and start
 ```
 . ./restart.sh
 ```
-Access at localhost:8080 (or was it 80... i forget)
+Access at localhost:8080
 
 Please update me (the readme) if you see any issues.
 
