@@ -2,11 +2,11 @@
 $(document).ready(function() {
 
 // Create the dropdown nav for responsive
-selectnav('nav', {
-    label: '',
-    nested: true,
-    indent: '-'
-}); 
+// selectnav('nav', {
+//     label: '',
+//     nested: true,
+//     indent: '-'
+// }); 
 
 //accordion	
 //$(".collapse").collapse() // pat: fixed null refernece
